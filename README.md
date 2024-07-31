@@ -253,10 +253,12 @@ Name           | Address
 [John Doge](https://tonviewer.com/0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da) | EQCFWfg1ELLRkNQ1VgxCEOYKqLqxAuNJTrUXFXgkag7D2ssH
 [KAKAXA](https://tonviewer.com/0:eacfb2d3c208f4d7a9224e24a8a0cfdfb7c92f78bd8fe298f87e4266b1457f6a) | EQDqz7LTwgj016kiTiSooM_ft8kveL2P4pj4fkJmsUV_an_X
 [KINGYTON](https://tonviewer.com/0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc) | EQC-tdRjjoYMz3MXKW4pj95bNZgvRyWwZ23Jix3ph7guvHxJ
+[KUROMI](https://tonviewer.com/0:b2a2f01e1b7616e6e6fd511698a498a621795a7be55a00c8d79a02271ce013bf) | EQCyovAeG3YW5ub9URaYpJimIXlae-VaAMjXmgInHOATv9Go
 [Kaif](https://tonviewer.com/0:9bc8bb619440838e3abc2854470b3f54a771efefdd7b94fe00888f4a1aa71ca1) | EQCbyLthlECDjjq8KFRHCz9Up3Hv7917lP4AiI9KGqccoSFK
 [Kartoshka](https://tonviewer.com/0:5f97fa738bcb7f7d85c9132819a33f1c21dd6c7639cf4ec069bea8878e08174b) | EQBfl_pzi8t_fYXJEygZoz8cId1sdjnPTsBpvqiHjggXS3Ep
 [Kito](https://tonviewer.com/0:922cb550f2a76112a65429a88a53b17ab157e734f990e05b02a42a3ca25a3bf7) | EQCSLLVQ8qdhEqZUKaiKU7F6sVfnNPmQ4FsCpCo8olo795LP
 [Kote Coin](https://tonviewer.com/0:6553fb4a2128297a978c153f6ddf14c37a2566a36e5d5bfe2f50e97a8c877f04) | EQBlU_tKISgpepeMFT9t3xTDeiVmo25dW_4vUOl6jId_BNIj
+[Kuromi](https://tonviewer.com/0:a734dc9961b61464a583fc3ef35efc2c63d6690c90cdc94f928cde91f438f999) | EQCnNNyZYbYUZKWD_D7zXvwsY9ZpDJDNyU-SjN6R9Dj5mdbj
 [LADY](https://tonviewer.com/0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9) | EQBowEMCNat-oFMWbRhhGBaEVxQO5qhyqei4P74D2xhx-TR6
 [LLAMA](https://tonviewer.com/0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067) | EQDJXgXvdkTCG0N6-e6B1-fl1U1LnPHMYpqio3UEA9KAZ07j
 [LP Token for AMBR-oUSDC](https://tonviewer.com/0:3f8601005845e9b89affe7a13599c8c7ac396e884fcb92957846be818482cc97) | EQA_hgEAWEXpuJr_56E1mcjHrDluiE_LkpV4Rr6BhILMl9an
